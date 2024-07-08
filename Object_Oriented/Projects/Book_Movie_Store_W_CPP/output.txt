@@ -1,0 +1,50 @@
+title|director|year|genre|artist|rate
+Exception: duplicate entry
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.17
+Exception: duplicate entry
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.17
+Exception: missing field
+Cold Mountain|Anthony Minghella|2003|Adventure:Drama:History
+Exception: duplicate entry
+The Shawshank Redemption|Frank Darabont|1994|Drama:Crime|Tim Robbins:Morgan Freeman:Bob Gunton|9.41
+7 unique entries
+search "Monkeys" in "title"
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.17
+Exception: command is wrong
+search "Space" in "type"
+sort "year"
+The Shawshank Redemption|Frank Darabont|1994|Drama:Crime|Tim Robbins:Morgan Freeman:Bob Gunton|9.41
+Forrest Gump|Robert Zemeckis|1994|Drama:Romance|Tom Hanks:Robin Wright:Gary Sinise|9.33
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.17
+The Lord of the Rings: The Fellowship of the Ring|Peter Jackson|2001|Adventure:Drama:Fantasy|Elijah Wood:Ian McKellen:Orlando Bloom|9.35
+Perfume: The Story of a Murderer|Tom Tykwer|2006|Crime:Drama:Fantasy|Ben Whishaw:Dustin Hoffman:Alan Rickman|8.46
+Inception|Christopher Nolan|2010|Action:Adventure:Sci-Fi:Thriller|Leonardo DiCaprio:Joseph Gordon-Levitt:Elliot Page|9.39
+filmx|ali can|2024||wasd|6.68
+search "Drama" in "genre"
+The Shawshank Redemption|Frank Darabont|1994|Drama:Crime|Tim Robbins:Morgan Freeman:Bob Gunton|9.41
+search "Drama" in "genre"
+Forrest Gump|Robert Zemeckis|1994|Drama:Romance|Tom Hanks:Robin Wright:Gary Sinise|9.33
+search "Drama" in "genre"
+The Lord of the Rings: The Fellowship of the Ring|Peter Jackson|2001|Adventure:Drama:Fantasy|Elijah Wood:Ian McKellen:Orlando Bloom|9.35
+search "Drama" in "genre"
+Perfume: The Story of a Murderer|Tom Tykwer|2006|Crime:Drama:Fantasy|Ben Whishaw:Dustin Hoffman:Alan Rickman|8.46
+sort "title"
+Forrest Gump|Robert Zemeckis|1994|Drama:Romance|Tom Hanks:Robin Wright:Gary Sinise|9.33
+Inception|Christopher Nolan|2010|Action:Adventure:Sci-Fi:Thriller|Leonardo DiCaprio:Joseph Gordon-Levitt:Elliot Page|9.39
+Perfume: The Story of a Murderer|Tom Tykwer|2006|Crime:Drama:Fantasy|Ben Whishaw:Dustin Hoffman:Alan Rickman|8.46
+The Lord of the Rings: The Fellowship of the Ring|Peter Jackson|2001|Adventure:Drama:Fantasy|Elijah Wood:Ian McKellen:Orlando Bloom|9.35
+The Shawshank Redemption|Frank Darabont|1994|Drama:Crime|Tim Robbins:Morgan Freeman:Bob Gunton|9.41
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.17
+filmx|ali can|2024||wasd|6.68
+Exception: command is wrong
+search "qwerty" in "director"
+sort "rate"
+filmx|ali can|2024||wasd|6.68
+Perfume: The Story of a Murderer|Tom Tykwer|2006|Crime:Drama:Fantasy|Ben Whishaw:Dustin Hoffman:Alan Rickman|8.46
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.17
+Forrest Gump|Robert Zemeckis|1994|Drama:Romance|Tom Hanks:Robin Wright:Gary Sinise|9.33
+The Lord of the Rings: The Fellowship of the Ring|Peter Jackson|2001|Adventure:Drama:Fantasy|Elijah Wood:Ian McKellen:Orlando Bloom|9.35
+Inception|Christopher Nolan|2010|Action:Adventure:Sci-Fi:Thriller|Leonardo DiCaprio:Joseph Gordon-Levitt:Elliot Page|9.39
+The Shawshank Redemption|Frank Darabont|1994|Drama:Crime|Tim Robbins:Morgan Freeman:Bob Gunton|9.41
+Exception: command is wrong
+sort "wasd"

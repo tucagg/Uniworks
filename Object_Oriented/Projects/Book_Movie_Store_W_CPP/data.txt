@@ -1,0 +1,12 @@
+title:string:single|director:string:single|year:integer:single|genre:string:multi|artist:string:multi|rate:double:single
+The Lord of the Rings: The Fellowship of the Ring|Peter Jackson|2001|Adventure:Drama:Fantasy|Elijah Wood:Ian McKellen:Orlando Bloom|9.35
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.17
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.17
+Perfume: The Story of a Murderer|Tom Tykwer|2006|Crime:Drama:Fantasy|Ben Whishaw:Dustin Hoffman:Alan Rickman|8.46
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.17
+Cold Mountain|Anthony Minghella|2003|Adventure:Drama:History
+The Shawshank Redemption|Frank Darabont|1994|Drama:Crime|Tim Robbins:Morgan Freeman:Bob Gunton|9.41
+Forrest Gump|Robert Zemeckis|1994|Drama:Romance|Tom Hanks:Robin Wright:Gary Sinise|9.33
+Inception|Christopher Nolan|2010|Action:Adventure:Sci-Fi:Thriller|Leonardo DiCaprio:Joseph Gordon-Levitt:Elliot Page|9.39
+The Shawshank Redemption|Frank Darabont|1994|Drama:Crime|Tim Robbins:Morgan Freeman:Bob Gunton|9.41
+filmx|ali can|2024||wasd|6.68

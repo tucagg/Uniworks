@@ -1,0 +1,8 @@
+search "Monkeys" in "title"
+search "Space" in "type"
+sort "year"
+search "Drama" in "genre"
+sort "title"
+search "qwerty" in "director"
+sort "rate"
+sort "wasd"

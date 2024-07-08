@@ -1,0 +1,3 @@
+1,D,Ayran,Sutas,20.50
+2,F,Simit,Firin,8.01
+3,K,Salata,Meyveci,36.75
